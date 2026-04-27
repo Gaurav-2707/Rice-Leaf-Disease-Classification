@@ -66,8 +66,3 @@ The project utilizes the public [Rice Leaf Diseases Dataset](https://www.kaggle.
 * **Hardware:** CUDA-enabled NVIDIA GPU
 
 ---
-Clone this repository and install the dependencies:
-```bash
-git clone https://github.com/your-username/rice-leaf-disease-classification.git
-cd rice-leaf-disease-classification
-pip install torch torchvision scikit-learn matplotlib seaborn pandas
